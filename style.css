@@ -60,7 +60,7 @@ ul {
 ul:before {
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
-    color: rgb(28, 33, 104);
+    color: rgb(200, 30, 50);
     background-color: rgba(245, 233, 149, 0.5);
     font-size: 18pt;
 }
@@ -70,7 +70,7 @@ li {
 }
 
 a {
-    color: rgb(28, 33, 104);
+    color: rgb(175, 5, 50);
     display: inline-block;
     overflow: hidden;
     position: relative;
