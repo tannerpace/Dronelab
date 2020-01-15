@@ -58,9 +58,9 @@ ul {
 }
 
 ul:before {
-    content: 'Quick links';
+    content: 'Drone Mapping and Cinematography';
     font-family: 'Permanent Marker', cursive;
-    color: rgb(200, 30, 50);
+    color: rgb(34, 11, 16);
     background-color: rgba(245, 233, 149, 0.5);
     font-size: 18pt;
 }
