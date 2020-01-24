@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "copyright © Tanner Bleakley (I am now flying newer hardware ;))";
+    content: "copyright © Tanner Bleakley ";
     position: fixed;
     left: 0;
     bottom: 0;
@@ -59,10 +59,10 @@ ul {
 
 ul:before {
     content: 'Drone Mapping and Cinematography';
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', 
     color: rgb(34, 11, 16);
     background-color: rgba(245, 233, 149, 0.5);
-    font-size: 18pt;
+    font-size: 24pt;
 }
 
 li {
