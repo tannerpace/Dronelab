@@ -15,14 +15,14 @@ body {
 
 
 body:after {
-    content: "copyright © Tanner Bleakley ";
+    content: "email: SUAVMAPPING@gmail.com ";
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     padding: 10px;
-    color: #black;
-    font-size: 10pt;
+    color: #white;
+    font-size: 30pt;
 }
 
 h1 {
@@ -59,15 +59,15 @@ ul {
 }
 
 ul:before {
-    content: 'Drone Mapping and Cinematography';
+    content: 'Data Collection; Industrial Mapping, Invasive Species Management,Modeling,Cinematography. ';
     font-family: 'Permanent Marker',
-    color: rgb(34, 11, 16);
-    background-color: rgba(245, 233, 149, 0.5);
+    color:
+
     font-size: 24pt;
 }
 
 li {
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 a {

@@ -1,0 +1,4 @@
+We evaluate our approach on three challenging datasets and show
+that off-the-shelf machine learning techniques together with our
+new features result in highly accurate and efficient classifiers that
+generalize well to unseen data
