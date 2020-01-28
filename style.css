@@ -13,12 +13,12 @@ body {
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center
+    background-position: left;
 }
 
 
 body:after {
-    content: "email: sUAVmapping@gmail.com ";
+    content: "email: DronelabsLLC@gmail.com ";
     position: fixed;
     left: 0;
     bottom: 0;
@@ -63,7 +63,7 @@ ul {
 }
 
 ul:before {
-    content: 'Data Collection; Industrial Mapping, Invasive Species Management,Modeling,Event Cinematography. ';
+    content: 'We Offer Data Collection; Industrial Mapping, Invasive Species Management,3d Modeling,Cinematography. ';
     font-family: 'Permanent Marker',
     color:
 
