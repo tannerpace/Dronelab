@@ -59,11 +59,11 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: hsl(360, 100%, 100%);px;
-    font-size: 14pt;
+    font-size: 54pt;
 }
 
 ul:before {
-    content: 'We Offer Data Collection; Industrial Mapping, Invasive Species Management,3d Modeling,Cinematography. ';
+    content: 'We Offer Data Collection Industrial Mapping, Invasive Species Management,3d Modeling,Cinematography. ';
     font-family: 'Permanent Marker',
     color:
 
